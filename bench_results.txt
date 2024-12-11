@@ -1,0 +1,4 @@
+Parallel average time: 2147.4
+Sequential average time: 6035.6
+Parallel average time is 2.81065 times lower than sequential
+
